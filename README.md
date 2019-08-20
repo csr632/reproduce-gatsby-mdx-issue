@@ -1,5 +1,7 @@
 # reproduce gatsbyjs + mdx issue
 
+issue: https://github.com/gatsbyjs/gatsby/issues/16799
+
 1. `yarn install`
 
 2. `yarn run start`
